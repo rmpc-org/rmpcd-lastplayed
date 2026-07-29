@@ -1,0 +1,5 @@
+{
+  "author": "mrk",
+  "name": "lastplayed",
+  "entry_point": "lastplayed.lua"
+}
